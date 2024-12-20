@@ -53,4 +53,5 @@ For Defending:
 
 🚨 Important Note
 
-	This project is for learning and educational purposes only. The techniques we’re using are designed for ethical hacking and cybersecurity training. Never use these methods in real-world environments without permission!
+   This project is for learning and educational purposes only. The techniques we’re using are designed for ethical hacking and cybersecurity training. Never use these methods in real-world environments without permission!
+	
