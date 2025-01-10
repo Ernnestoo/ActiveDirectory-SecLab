@@ -1,4 +1,0 @@
-load_dotenv()
-
-SENDER_EMAIL=attacker@example.com
-SENDER_PASSWORD=securepassword
